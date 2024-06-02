@@ -1,1 +1,90 @@
 [2024-05-26 18:16:24,291: INFO: main: welcome to our custom logging]
+[2024-06-02 17:59:03,557: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-02 17:59:29,807: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-02 17:59:29,809: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-02 17:59:29,811: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-06-02 17:59:29,813: INFO: common: created directory at: artifacts]
+[2024-06-02 17:59:29,814: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-02 18:31:39,352: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-02 18:31:39,354: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-02 18:31:39,356: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-06-02 18:31:39,357: INFO: common: created directory at: artifacts]
+[2024-06-02 18:31:39,358: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-02 18:32:00,611: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-02 18:32:00,614: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-02 18:32:00,617: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-06-02 18:32:00,619: INFO: common: created directory at: artifacts]
+[2024-06-02 18:32:00,620: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-02 18:46:12,014: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-02 18:46:12,016: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-02 18:46:12,018: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-06-02 18:46:12,019: INFO: common: created directory at: artifacts]
+[2024-06-02 18:46:12,021: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-02 18:46:52,370: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-02 18:46:52,372: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-02 18:46:52,374: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-06-02 18:46:52,375: INFO: common: created directory at: artifacts]
+[2024-06-02 18:46:52,377: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-02 18:46:53,154: INFO: 2716906135: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B8EC:37F4C5:238CF4:304AF6:665C70C4
+Accept-Ranges: bytes
+Date: Sun, 02 Jun 2024 13:16:53 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4747-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1717334213.918959,VS0,VE262
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9dee72f6dd14e89289b3815baf0ba6f62fcbf76d
+Expires: Sun, 02 Jun 2024 13:21:53 GMT
+Source-Age: 0
+
+]
+[2024-06-02 19:29:58,958: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-02 19:29:58,959: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-02 19:29:58,959: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-02 19:29:58,960: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-06-02 19:29:58,960: INFO: common: created directory at: artifacts]
+[2024-06-02 19:29:58,961: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-02 19:29:59,868: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B8EC:37F4C5:238CF4:304AF6:665C70C4
+Accept-Ranges: bytes
+Date: Sun, 02 Jun 2024 13:59:59 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4737-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1717336799.461771,VS0,VE436
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9a3aff4b37b8bdf9483757cbea2d31369e7ff3c3
+Expires: Sun, 02 Jun 2024 14:04:59 GMT
+Source-Age: 0
+
+]
+[2024-06-02 19:29:59,904: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
